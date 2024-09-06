@@ -1,2 +1,11 @@
 # PFF data
 data/enhaced_frames_shots.pkl
+
+#.venv
+.venv/**
+
+#vscode files
+.vscode/**
+
+# kaggle submission file
+submission.csv
