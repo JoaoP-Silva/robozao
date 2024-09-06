@@ -4,7 +4,7 @@
 
 # Dataset
 
-The [enhanced_frames](https://github.com/JoaoP-Silva/robozao/tree/main/data) file contains the PFF frames and events of all shots of the FIFA 2022 World Cup. The model was trained and tested using only this dataset.
+The _data/enhanced_frames.pkl_ file contains the PFF frames and events of all shots of the FIFA 2022 World Cup. The model was trained and tested using only this dataset. For now, the dataset is private, but when PFF makes it available I will publish it here too
 
 # Features
 
